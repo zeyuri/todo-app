@@ -1,3 +1,30 @@
+# Challenge
+
+Develop a web application for a to-do list.
+
+## Features
+
+- Create an authenticator to load user data.
+- Add, edit, and delete tasks.
+- Mark tasks as completed.
+- Filter tasks by status (all, completed, pending).
+
+## UI/UX
+
+- Simple and responsive interface.
+- Pleasant design with attention to usability details.
+
+## Technologies
+
+- Use JavaScript (or TypeScript) with React.
+- If you have the knowledge, implement state management (e.g., Context API, Redux, or Vuex).
+- Use CSS (or a framework like Tailwind or Bootstrap).
+- (Optional) Include automated tests with a tool (Jest, Mocha, or Cypress).
+- (Optional add by me): create github actions and ci/cd pipeline validate code quality and then deploy
+
+
+## Below is the original bootstraped README.md
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
